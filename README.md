@@ -8,6 +8,8 @@
    <ul>
     <li>:man_technologist: <strong>Who am I?:</strong> I am Data Scientist at IIC (Instituto de Ingeniería del Conocimiento).</li>
     <li>:mailbox: <strong>How to reach me:</strong> <a href="https://www.linkedin.com/in/sergio-gil-gavela-0890411b3/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="linkedin"/>
+    <li>:books: <strong>Studies:</strong> I studied a double degree in Mathematics and Computer Science. I also completed a MSc in Data Science and Big Data.
+    <li>:bulb: <strong>Fields of experience:</strong> My main fields of expertise are NLP, Computer Vision and everything related with deep learning. Furthermore, I have also dealt with time series and classical machine learning models such as ensembles, XGBoost, regression, etc.
   </ul>
   </div>
 <div>
